@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;arquitecturanetflix&apos;" deleteContents="true" description="Delete resource &apos;arquitecturanetflix&apos;" element1="/arquitecturanetflix" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1663437006325"/>&#x0A;<refactoring comment="Delete resource &apos;springboot-servicio-arquitecturanetflix&apos;" deleteContents="true" description="Delete resource &apos;springboot-servicio-arquitecturanetflix&apos;" element1="/springboot-servicio-arquitecturanetflix" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1663437189995"/>
+</session>
